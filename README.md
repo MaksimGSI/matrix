@@ -1,4 +1,4 @@
-# untitled7
+# Matrix determinant calculator
 
 This project uses [Gradle](https://gradle.org/).
 To build and run the application, use the *Gradle* tool window by clicking the Gradle icon in the right-hand toolbar,
